@@ -1,0 +1,76 @@
+site_name: Hammad Hanif (Data Scientist, Machine Learning Engineer)
+site_description: A collection of my projects
+site_author: Hammad Hanif (AI Developer)
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.action.edit
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue
+      accent: cyan
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue
+      accent: cyan
+  font:
+    text: Roboto
+    code: Roboto Mono
+  icon:
+    repo: fontawesome/brands/github
+
+nav:
+  - Home: index.md
+  - Projects: projects.md
+  - Blogs: blogs.md
+  - Skills: skills.md
+  - Resume: resume.md
+  - About: about.md
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.tabbed:
+      alternate_style: true
+  - footnotes
+
+plugins:
+  - search
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/hammadhanif267
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/hammad-hanif-153a182bb/
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/hammadhanif267
+
+# Optional: Enable these if you're hosting on GitHub and want "Edit this page" links
+# repo_url: https://github.com/hammadhanif267/portfolio
+# repo_name: GitHub
+# edit_uri: edit/main/docs/
+
+extra_css:
+  - stylesheets/extra.css  # Custom styles (optional, only if the file exists)
+
+extra_javascript:
+  - javascripts/extra.js   # Custom scripts (optional, only if needed)
