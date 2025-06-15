@@ -1,114 +1,113 @@
-# **🚀 Data Scientist | AI Engineer | Python Developer | Machine & Deep Learning Specialist**  
-*Delivering end-to-end AI and Data Science solutions with real-world impact*
+<p align="center">
+    <span style="color:black; font-size:2em;"><strong>Hammad Hanif</strong></span><br>
+    Data Scientist | AI Engineer | Python Developer | ML/DL Specialist<br>
+</p>
+
+<p align="center">
+    <a href="mailto:hamadhanif267@gmail.com" title="Email">
+        <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.2/svgs/solid/envelope.svg" alt="Email" width="24" style="vertical-align:middle;"/> Email
+    </a> &nbsp;|&nbsp;
+    <a href="https://github.com/hammadhanif267" title="GitHub">
+        <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.2/svgs/brands/github.svg" alt="GitHub" width="24" style="vertical-align:middle;"/> GitHub
+    </a> &nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/hammad-hanif-153a182bb/" title="LinkedIn">
+        <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.2/svgs/brands/linkedin.svg" alt="LinkedIn" width="24" style="vertical-align:middle;"/> LinkedIn
+    </a> &nbsp;|&nbsp;
+    <a href="https://hammadhanif267.github.io/My_AI_Portfolio/" title="Portfolio">
+        <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.2/svgs/solid/briefcase.svg" alt="Portfolio" width="24" style="vertical-align:middle;"/> Portfolio
+    </a> &nbsp;|&nbsp;
+    <a href="tel:+923017379199" title="Phone">
+        <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.2/svgs/solid/phone.svg" alt="Phone" width="24" style="vertical-align:middle;"/> Phone
+    </a>
+</p>
+
+<span style="color:black; font-size:1.8em;"><strong>Summary</strong></span>
+<div style="height:2px; background-color:#000; margin:8px 0;"></div>
+<p style="margin-top:4px;">
+    Proactive <strong>AI Engineer & Python Developer</strong> with 2+ years of hands-on expertise in <strong>ML, DL, NLP, Computer Vision, and Azure AI</strong>. Skilled in crafting scalable AI-driven systems, completing extensive mentorship in AI & Data Science, and delivering impactful end-to-end solutions.
+</p>
 
 ---
 
-## 📧 Contact  
-**Name:** Hammad Hanif  
-**Location:** Sahiwal, Pakistan  
-**Phone:** +923017379199  
-**Email:** [Contact Me](mailto:hamadhanif267@gmail.com)  
-**LinkedIn:** [Visit My LinkedIn](https://www.linkedin.com/in/hammad-hanif-153a182bb/)    
-**GitHub:** [Visit My GitHub](https://github.com/hammadhanif267)  
-**Portfolio:** [Visit My Portfolio](https://yourportfolio.com)  
+<span style="color:black; font-size:1.8em;"><strong>Education & Certifications</strong></span>
+<div style="height:2px; background-color:#000; margin:8px 0;"></div>
+
+<strong>Bachelor’s in Software Engineering</strong>  
+<em>University of Sahiwal</em> — Oct 2020 – June 2024 — CGPA: 3.18  
+
+<strong>F.Sc (Pre-Engineering)</strong>  
+<em>Punjab Group of Colleges</em> — 919/1100  
+
+<strong>Matric (Science)</strong>  
+<em>Govt. Rai Niaz High School</em> — 940/1100  
+
+<strong>AI & Data Science Specialization</strong> — Codanics  
+<strong>Azure AI-900 Certified</strong> — Microsoft  
 
 ---
 
-## 🧠 Summary  
-I am a dedicated **Software Engineer and Python Developer** with over **2 years of experience** in **AI and Data Science**. Skilled in **Python, Machine Learning, Deep Learning, EDA, Computer Vision, NLP, and Azure AI**, I specialize in building scalable, intelligent systems. I’ve completed a comprehensive **AI and Data Science mentorship** and hold a Bachelor's degree in **Software Engineering**. With a passion for solving problems using data, I excel in developing, deploying, and maintaining full-stack AI solutions.
+<span style="color:black; font-size:1.8em;"><strong>Technical Skills</strong></span>
+<div style="height:2px; background-color:#000; margin:8px 0;"></div>
+
+- <strong>Languages/Tools:</strong> Python, Git, Jupyter, VSCode, Flask, Streamlit, HTML  
+- <strong>Data:</strong> Pandas, NumPy, SQL  
+- <strong>Visualization:</strong> Matplotlib, Seaborn, Plotly  
+- <strong>ML/DL:</strong> Sklearn, TensorFlow, Keras, CNN, RNN, LSTM  
+- <strong>Computer Vision:</strong> OpenCV, Transfer Learning, Object Detection  
+- <strong>NLP:</strong> HuggingFace, LangChain, Transformers  
+- <strong>Deployment:</strong> Azure AI, Flask, Streamlit, REST APIs  
 
 ---
 
-## 🎓 Education & Certifications  
-**Bachelor’s in Software Engineering**  
-*University of Sahiwal* — *Oct 2020 – June 2024*  
-- CGPA: 3.18  
+<span style="color:black; font-size:1.8em;"><strong>Experience</strong></span>
+<div style="height:2px; background-color:#000; margin:8px 0;"></div>
 
-**F.Sc (Pre-Engineering)**  
-*Punjab Group of Colleges, Chichawatni* — *Aug 2018 – Jun 2020*  
-- Marks: 919 / 1100  
+<strong>Rehman Software House</strong>, Chichawatni — Feb 2021 – Apr 2023  
 
-**Matric (Science Group)**  
-*Govt. Rai Niaz High School, Chichawatni* — *Mar 2016 – Apr 2018*  
-- Marks: 940 / 1100  
-  
-**AI & Data Science Specialization**  
-*Institute*: [Codanics](https://codanics.com/courses/six-months-of-ai-and-data-science-mentorship-program/lesson/what-is-a-data-science-portfolio/)  
-- Covered Python, EDA, ML, DL, NLP, Computer Vision, Deployment, and Generative AI 
-  
-**Azure AI-900 Certification**  
-*Microsoft*  
-- Completed a comprehensive certification course on Azure AI.
+- Built, optimized, and deployed ML/DL models for predictive analytics.  
+- Developed data visualizations & supported AI solution deployment.  
 
 ---
 
-## 📚 Technical Skills  
+<span style="color:black; font-size:1.8em;"><strong>Projects</strong></span>
+<div style="height:2px; background-color:#000; margin:8px 0;"></div>
 
-- **Languages & Tools:** Python, Git, Jupyter, VSCode, Flask, Streamlit, HTML  
-- **Data Handling:** NumPy, Pandas, SQL  
-- **Visualization:** Matplotlib, Seaborn, Plotly  
-- **Statistics & Math:** Probability, Linear Algebra, Hypothesis Testing, Calculus  
-- **Machine Learning:** Regression, Classification, Clustering, Scikit-learn, Time Series  
-- **Deep Learning:** CNN, RNN, LSTM, TensorFlow, Keras, TensorBoard  
-- **Computer Vision:** OpenCV, Transfer Learning, Object Detection, Image Processing  
-- **NLP:** Text Classification, Transformers, HuggingFace, LangChain  
-- **Generative AI:** GANs, Prompt Engineering, Diffusion Models  
-- **Deployment & DevOps:** Flask, Streamlit, REST APIs, GitHub, Azure-AI-900  
+- <strong>Stock Market Dashboard:</strong> Real-time stock analysis (Streamlit, Yahoo API)  
+- <strong>Word Cloud Generator:</strong> Custom text cloud tool (Streamlit)  
+- <strong>Text-to-Speech App:</strong> Text-to-audio converter (gTTS)  
+- <strong>Speech-to-Text App:</strong> Audio transcription app (SpeechRecognition)  
+- <strong>Heart Disease Prediction:</strong> ML model predicting disease risk  
+- <strong>Learning Management System (LMS):</strong> Full-stack LMS (HTML, CSS, JS, PHP, Ajax, jQuery)  
 
 ---
 
-## 💼 Experience  
+<span style="color:black; font-size:1.8em;"><strong>Achievements</strong></span>
+<div style="height:2px; background-color:#000; margin:8px 0;"></div>
 
-### **Machine Learning & Deep Learning Intern**  
-**Rehman Software House, Chichawatni** — *Feb 2021 – Apr 2023*  
-- Worked on multiple projects involving data preprocessing, visualization, and predictive modeling.  
-- Developed ML/DL models using Python libraries (NumPy, Pandas, TensorFlow).  
-- Visualized data trends using Matplotlib and Seaborn for insight-driven decisions.  
-- Participated in model optimization and performance tuning.
-
----
-
-## 📈 Projects  
-
-### 🧠 AI-Powered Medical Diagnosis System  
-- Built a CNN-based deep learning model for classifying X-ray images with 90%+ accuracy.  
-- Integrated the model into a **Flask API** with a **Streamlit frontend** for user interaction.  
-
-### 💬 Smart Chatbot using LangChain & Transformers  
-- Created a conversational agent using HuggingFace Transformers and LangChain.  
-- Designed for document-based QA with context retention and memory support.  
-
-### 📊 EDA & ML Pipeline for Sales Forecasting  
-- Executed detailed **Exploratory Data Analysis** and preprocessing on real-world datasets.  
-- Built forecasting models using Linear Regression and Random Forest.  
-
-### 🎨 Generative AI Art App  
-- Developed a GAN to create stylized artwork based on user-selected themes.  
-- Deployed through a Streamlit dashboard for real-time generation.  
-
-### 📚 Learning Management System (LMS)  
-- Developed a complete LMS web application using PHP (Core + Advanced), jQuery, Ajax, HTML, CSS, Bootstrap, JavaScript, and MySQL.  
-- Handled full-stack development from UI to backend logic.
+- Delivered <strong>production-ready AI solutions</strong> across multiple domains.  
+- Developed a <strong>Full-Stack LMS</strong> as FYP.  
+- Completed <strong>EDA Internship</strong> at CodexCue Solutions.  
+- Passed <strong>Microsoft Azure AI-900</strong> Certification.  
+- Contributed to <strong>Open-Source GitHub Projects</strong>.  
 
 ---
 
-## 🏆 Achievements  
+<span style="color:black; font-size:1.8em;"><strong>Languages</strong></span>
+<div style="height:2px; background-color:#000; margin:8px 0;"></div>
 
-- Successfully completed **10+ full-scale AI/Data Science projects**  
-- Participated in **multiple Kaggle competitions**  
-- Developed and deployed **production-ready ML apps**  
-- Passed Microsoft’s **Azure-AI-900** Certification  
-- Actively contribute to **GitHub repositories** and open-source projects  
+- <strong>English:</strong> Professional  
+- <strong>Urdu:</strong> Native  
 
----
+<div style="height:2px; background-color:#000; margin:8px 0;"></div>
 
-## 🌐 Languages  
-- English: Professional Proficiency  
-- Urdu: Native  
-- Hindi: Conversational  
 
----
+# My Resume
 
-## 📌 Note  
-Actively seeking opportunities for full-time, internship, or freelance roles in **AI, Machine Learning, Data Science, or Python Development**. Available for remote or on-site projects globally.
+Here you can view or download my resume.
+
+<a href="Hammad_Hanif_Resume.pdf" download>
+    <button style="padding:10px 20px;background-color:#007BFF;color:white;border:none;border-radius:5px;">
+        Download Resume
+    </button>
+</a>
 

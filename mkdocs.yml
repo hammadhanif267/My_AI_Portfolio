@@ -52,8 +52,13 @@ markdown_extensions:
       alternate_style: true
   - footnotes
 
+site_name: My Portfolio
+
 plugins:
   - search
+  - include-markdown
+
+
 
 extra:
   social:
@@ -70,7 +75,7 @@ extra:
 # edit_uri: edit/main/docs/
 
 extra_css:
-  - stylesheets/extra.css  # Custom styles (optional, only if the file exists)
+  - stylesheets/extra.css # Custom styles (optional, only if the file exists)
 
 extra_javascript:
-  - javascripts/extra.js   # Custom scripts (optional, only if needed)
+  - javascripts/extra.js # Custom scripts (optional, only if needed)
