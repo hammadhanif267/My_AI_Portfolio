@@ -1,3 +1,4 @@
+<h1 style="color:blue; font-size:2em;"><i class="fas fa-cogs"></i> This is my resume:</h1>
 <p align="center">
     <span style="color:black; font-size:2em;"><strong>Hammad Hanif</strong></span><br>
     Data Scientist | AI Engineer | Python Developer | ML/DL Specialist<br>
@@ -100,14 +101,9 @@
 
 <div style="height:2px; background-color:#000; margin:8px 0;"></div>
 
-
-# My Resume
-
-Here you can view or download my resume.
-
-<a href="Hammad_Hanif_Resume.pdf" download>
-    <button style="padding:10px 20px;background-color:#007BFF;color:white;border:none;border-radius:5px;">
-        Download Resume
-    </button>
-</a>
-
+<button style="text-align:center; border: 1px solid black;
+    padding: 10px 20px;
+    background: blue;
+    color: white;">
+[<img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.2/svgs/solid/file-pdf.svg" alt="PDF" width="18" style="vertical-align:middle; "/> Download Resume (PDF)](Hammad_Hanif_Resume.pdf)
+</button>

@@ -37,6 +37,7 @@ nav:
   - Skills: skills.md
   - Resume: resume.md
   - About: about.md
+  - Contact: contact.md
 
 markdown_extensions:
   - admonition
@@ -52,13 +53,8 @@ markdown_extensions:
       alternate_style: true
   - footnotes
 
-site_name: My Portfolio
-
 plugins:
   - search
-  - include-markdown
-
-
 
 extra:
   social:

@@ -1,3 +1,4 @@
+<h1 style="color:yellow; font-size:2em;"><i class="fas fa-cogs"></i> Project 5</h1>
 ### ❤️ Heart Disease Prediction Model &nbsp; <i class="fas fa-heartbeat"></i>
 
 A machine learning-based project developed using **Python (Jupyter Notebook)** to predict the likelihood of heart disease in patients based on various health indicators. This project uses supervised learning algorithms to train on healthcare datasets and provides prediction accuracy along with performance evaluation metrics.

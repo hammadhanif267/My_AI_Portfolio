@@ -1,5 +1,6 @@
+<h1 style="color:yellow; font-size:2em;"><i class="fas fa-blog"></i> These are my blogs:</h1>
 ## **Blog 1**
-<span style="color:#26046F; font-size:1.5em;"><strong>Title: Unlocking the Future: A Deep Dive into AI and Data Science 🤖📊</strong></span>
+<span style="color:yellow; font-size:1.5em;"><strong>Title: Unlocking the Future: A Deep Dive into AI and Data Science 🤖📊</strong></span>
 
 ---
 
@@ -39,7 +40,7 @@ Reinforces the importance of understanding AI and Data Science in a data-driven 
 ---
 
 ## **Blog 2**
-<span style="color:#26046F; font-size:1.5em;"><strong>Title: 🔢📊 Mathematics & Statistics for AI & Data Science 🚀🤖</strong></span>
+<span style="color:yellow; font-size:1.5em;"><strong>Title: 🔢📊 Mathematics & Statistics for AI & Data Science 🚀🤖</strong></span>
 
 ---
 In the rapidly evolving fields of AI and Data Science, mathematics and statistics serve as the backbone for developing algorithms, analyzing data, and drawing meaningful conclusions. Understanding the fundamental concepts in these areas is crucial for anyone looking to excel in this domain. Let's explore some of the key mathematical and statistical concepts that are vital for AI and Data Science.
@@ -101,7 +102,7 @@ By integrating these mathematical and statistical principles, you can enhance yo
 ---
 
 ## **Blog 3**
-<span style="color:#26046F; font-size:1.5em;"><strong>Title: Types of Machine Learning 🤖</strong></span>
+<span style="color:yellow; font-size:1.5em;"><strong>Title: Types of Machine Learning 🤖</strong></span>
 
 ---
 Machine learning (ML) is a powerful tool that enables systems to learn from data and improve over time. Here’s an overview of the main types of machine learning, excluding deep learning, along with examples for each.
@@ -143,7 +144,7 @@ Understanding the different types of machine learning is essential for selecting
 ---
 
 ## **Blog 4**
-<span style="color:#26046F; font-size:1.5em;"><strong>Title: Types of Deep Learning 🧠</strong></span>
+<span style="color:yellow; font-size:1.5em;"><strong>Title: Types of Deep Learning 🧠</strong></span>
 
 ---
 
@@ -192,7 +193,7 @@ Deep learning encompasses various architectures, each suited for specific tasks 
 ---
 
 ## **Blog 5**
-<span style="color:#26046F; font-size:1.5em;"><strong>Title: Important Things About Machine Learning and Deep Learning 🤖</strong></span>
+<span style="color:yellow; font-size:1.5em;"><strong>Title: Important Things About Machine Learning and Deep Learning 🤖</strong></span>
 
 ---
 Machine Learning (ML) and Deep Learning (DL) are transforming industries by enabling computers to learn from data and make decisions. Here are some crucial aspects to understand about both technologies.
@@ -249,7 +250,7 @@ Understanding the key aspects of Machine Learning and Deep Learning is essential
 
 ---
 ## **Blog 6**
-<span style="color:#26046F; font-size:1.5em;"><strong>Title: Understanding Natural Language Processing (NLP) 🌐</strong></span>
+<span style="color:yellow; font-size:1.5em;"><strong>Title: Understanding Natural Language Processing (NLP) 🌐</strong></span>
 
 ---
 
@@ -306,7 +307,7 @@ As you explore this field, consider the challenges and opportunities that lie ah
 ---
 
 ## **Blog 7**
-<span style="color:#26046F; font-size:1.5em;"><strong>Title: Understanding Transfer Learning, Fine-Tuning, and Generative AI 🌟</strong></span>
+<span style="color:yellow; font-size:1.5em;"><strong>Title: Understanding Transfer Learning, Fine-Tuning, and Generative AI 🌟</strong></span>
 
 ---
 In the rapidly evolving landscape of artificial intelligence, transfer learning, fine-tuning, and generative AI are transforming how we develop and deploy models. These techniques enable more efficient and powerful applications across various domains. Let’s explore each concept and how they interconnect.
@@ -362,7 +363,7 @@ Transfer learning, fine-tuning, and generative AI are interwoven techniques that
 ---
 
 ## **Blog 8**
-<span style="color:#26046F; font-size:1.5em;"><strong>Title: Hyperparameter Tuning in Generative AI 🎛️</strong></span>
+<span style="color:yellow; font-size:1.5em;"><strong>Title: Hyperparameter Tuning in Generative AI 🎛️</strong></span>
 
 ---
 
@@ -423,7 +424,7 @@ Hyperparameter tuning is essential for maximizing the performance of generative 
 ---
 
 ## **Blog 9**
-<span style="color:#26046F; font-size:1.5em;"><strong>Title: Streamlit vs. Flask: Choosing the Right Framework for Your Web Applications 🌐</strong></span>
+<span style="color:yellow; font-size:1.5em;"><strong>Title: Streamlit vs. Flask: Choosing the Right Framework for Your Web Applications 🌐</strong></span>
 
 ---
 
@@ -483,7 +484,7 @@ Both frameworks have their unique strengths and can even be used together in som
 ----
 
 ## **Blog 10**
-<span style="color:#26046F; font-size:1.5em;"><strong>Title: Tableau, Power BI, and SQL: A Comprehensive Guide to Data Visualization and Analysis 📊</strong></span>
+<span style="color:yellow; font-size:1.5em;"><strong>Title: Tableau, Power BI, and SQL: A Comprehensive Guide to Data Visualization and Analysis 📊</strong></span>
 
 ---
 

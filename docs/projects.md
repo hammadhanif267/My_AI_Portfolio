@@ -1,5 +1,4 @@
-<h1 style="color:#26046F;"><i class="fas fa-project-diagram"></i> These are my projects:</h1>
-
+<h1 style="color:yellow; font-size:2em;"><i class="fas fa-project-diagram"></i> These are my projects:</h1>
 ## **Project 1**
 > **Stock Market Analysis App is an interactive web application built using Streamlit that allows users to analyze historical stock market data. With features like dynamic stock selection, customizable date ranges, and interactive visualizations (line charts, moving averages), this app provides an intuitive way for users to explore stock price trends. The data is fetched in real-time from the Yahoo Finance API (yfinance), ensuring accuracy and reliability.**
 > 

@@ -1,3 +1,4 @@
+<h1 style="color:yellow; font-size:2em;"><i class="fas fa-cogs"></i> Project 1</h1>
 ### 📈 Stock Market Analysis App &nbsp; <i class="fas fa-chart-line"></i>
 
 A Streamlit-based interactive web app designed for **analyzing and visualizing stock market data** in real-time. This application allows users to select stocks, specify time ranges, and view insightful data visualizations like **line charts, moving averages, and price trends**.  
