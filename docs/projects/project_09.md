@@ -1,4 +1,4 @@
-<h1 style="color:yellow; font-size:2em;"><i class="fas fa-cogs"></i> Project 2</h1>
+<h1 style="color:yellow; font-size:2em;"><i class="fas fa-cogs"></i> Project 9</h1>
 ### ☁️ Word Cloud Generator App &nbsp; <i class="fas fa-cloud"></i>
 
 An intuitive **Streamlit-based Word Cloud Generator** that processes user-input text to create a beautiful and dynamic word cloud visualization. This app helps users to visually identify the most frequent words in any given text data, making it useful for text analysis, NLP projects, or fun word art creation.
@@ -15,3 +15,5 @@ An intuitive **Streamlit-based Word Cloud Generator** that processes user-input 
 
 #### 💻 **Source Code:**  
 🔗 [GitHub Repository](https://github.com/hammadhanif267/WordCloud)
+
+-----

@@ -19,8 +19,12 @@
     </a> &nbsp;|&nbsp;
     <a href="tel:+923017379199" title="Phone">
         <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.2/svgs/solid/phone.svg" alt="Phone" width="24" style="vertical-align:middle;"/> Phone
-    </a>
+    </a> &nbsp;|&nbsp;
+    <span title="Location">
+        <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.2/svgs/solid/location-dot.svg" alt="Location" width="18" style="vertical-align:middle;"/> Sahiwal, Pakistan
+    </span>
 </p>
+
 
 <span style="color:black; font-size:1.8em;"><strong>Summary</strong></span>
 <div style="height:2px; background-color:#000; margin:8px 0;"></div>
@@ -52,7 +56,7 @@
 
 - <strong>Languages/Tools:</strong> Python, Git, Jupyter, VSCode, Flask, Streamlit, HTML  
 - <strong>Data:</strong> Pandas, NumPy, SQL  
-- <strong>Visualization:</strong> Matplotlib, Seaborn, Plotly  
+- <strong>Visualization:</strong> Matplotlib, Seaborn, Plotly, Power BI (DAX), Tableau  
 - <strong>ML/DL:</strong> Sklearn, TensorFlow, Keras, CNN, RNN, LSTM  
 - <strong>Computer Vision:</strong> OpenCV, Transfer Learning, Object Detection  
 - <strong>NLP:</strong> HuggingFace, LangChain, Transformers  
@@ -73,15 +77,22 @@
 <span style="color:black; font-size:1.8em;"><strong>Projects</strong></span>
 <div style="height:2px; background-color:#000; margin:8px 0;"></div>
 
+- <strong>House Price Prediction:</strong> Flask app predicting house prices using ML (area-based input)  
+- <strong>Student Marks Prediction:</strong> Flask app forecasting student scores from input features  
+- <strong>Voice Bot Web App:</strong> Real-time voice interaction using SpeechRecognition & TTS (Flask)  
+- <strong>Diabetes Prediction App:</strong> Flask ML app predicting diabetes risk from medical data  
+- <strong>AI Image Generator:</strong> Flask app generating images from text prompts (DALL·E/SD models)  
+- <strong>Text-to-Speech App:</strong> Flask-based TTS converter using gTTS engine  
+- <strong>Word Cloud Generator (Flask):</strong> NLP-based word cloud visualizer from user text input  
 - <strong>Stock Market Dashboard:</strong> Real-time stock analysis (Streamlit, Yahoo API)  
-- <strong>Word Cloud Generator:</strong> Custom text cloud tool (Streamlit)  
-- <strong>Text-to-Speech App:</strong> Text-to-audio converter (gTTS)  
-- <strong>Speech-to-Text App:</strong> Audio transcription app (SpeechRecognition)  
-- <strong>Heart Disease Prediction:</strong> ML model predicting disease risk  
+- <strong>Word Cloud Generator (Streamlit):</strong> Quick word cloud creation from custom text  
+- <strong>Speech-to-Text App:</strong> Streamlit app converting speech/audio to text (SpeechRecognition)  
+- <strong>Heart Disease Prediction:</strong> Jupyter Notebook project predicting heart disease using ML  
 - <strong>Learning Management System (LMS):</strong> Full-stack LMS (HTML, CSS, JS, PHP, Ajax, jQuery)  
+- <strong>Power BI Dashboards:</strong> Interactive business dashboards and reports using DAX & Power Query  
+- <strong>Tableau Dashboards:</strong> Visual analytics dashboards with advanced storytelling and insights
 
 ---
-
 <span style="color:black; font-size:1.8em;"><strong>Achievements</strong></span>
 <div style="height:2px; background-color:#000; margin:8px 0;"></div>
 

@@ -25,6 +25,8 @@
 - 📊 **Matplotlib**
 - 🌈 **Seaborn**
 - 📈 **Plotly**
+- 🟦 **Power BI (DAX)**
+- 🎨**Tableau**
 
 ---
 
