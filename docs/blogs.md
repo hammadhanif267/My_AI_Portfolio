@@ -1,4 +1,6 @@
 <h1 style="color:yellow; font-size:2em;"><i class="fas fa-blog"></i> These are my blogs:</h1>
+<div style="height:1px; background-color:#000; margin:8px 0;"></div>
+
 ## **Blog 1**
 <span style="color:yellow; font-size:1.5em;"><strong>Title: Unlocking the Future: A Deep Dive into AI and Data Science 🤖📊</strong></span>
 
@@ -567,4 +569,7 @@ Choosing the right tool depends on your specific needs, whether it's data visual
 
 **The purpose of including structured conclusions and summaries at the end of each blog is to engage readers by reinforcing key points, encouraging further exploration, and prompting action. This approach enhances clarity, builds credibility, and fosters a sense of community, while also showcasing the author’s ability to communicate complex concepts effectively. Ultimately, it enriches the reader's experience and serves as a valuable resource for continued learning.**
 
----
+----
+
+> [**⬅ Previous Page**](projects.md) &nbsp;|&nbsp; [**Next Page ➡**](skills.md)
+<div style="height:1.5px; background-color:#000; margin:8px 0;"></div>

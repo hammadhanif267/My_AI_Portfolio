@@ -1,9 +1,12 @@
 <h1 style="color:yellow; font-size:2em;"><i class="fas fa-cogs"></i> These are my technical skills:</h1>
+<div style="height:1px; background-color:#000; margin:8px 0;"></div>
+
 <span style="color:yellow; font-size:3em;"><strong>💼 Technical Skills</strong></span>
 
----
+<div style="height:1px; background-color:#000; margin:8px 0;"></div>
 
-## 🖥️ Languages & Tools
+> ## 🖥️ Languages & Tools
+
 - 🐍 **Python**
 - 🔧 **Git**
 - 📓 **Jupyter Notebook**
@@ -14,14 +17,16 @@
 
 ---
 
-## 🗄️ Data Handling
+> ## 🗄️ Data Handling
+
 - 🐼 **Pandas**
 - 🔢 **NumPy**
 - 🗃️ **SQL**
 
 ---
 
-## 📊 Data Visualization
+> ## 📊 Data Visualization
+
 - 📊 **Matplotlib**
 - 🌈 **Seaborn**
 - 📈 **Plotly**
@@ -30,7 +35,8 @@
 
 ---
 
-## 🤖 Machine Learning & Deep Learning
+> ## 🤖 Machine Learning & Deep Learning
+
 - ⚙️ **Scikit-Learn**
 - 🔶 **TensorFlow**
 - 🔴 **Keras**
@@ -38,23 +44,29 @@
 
 ---
 
-## 👁️ Computer Vision
+> ## 👁️ Computer Vision
+
 - 📷 **OpenCV**
 - 🔄 **Transfer Learning | Object Detection**
 
 ---
 
-## 🗣️ Natural Language Processing (NLP)
+> ## 🗣️ Natural Language Processing (NLP)
+
 - 🤗 **HuggingFace**
 - 🔗 **LangChain**
 - 🔤 **Transformers**
 
 ---
 
-## ☁️ Deployment & Cloud
+> ## ☁️ Deployment & Cloud
+
 - ☁️ **Microsoft Azure AI**
 - 🍶 **Flask**
 - 📈 **Streamlit**
 - 🔌 **REST APIs**
 
----
+----
+
+> [**⬅ Previous Page**](blogs.md) &nbsp;|&nbsp; [**Next Page ➡**](resume.md)
+<div style="height:1.5px; background-color:#000; margin:8px 0;"></div>

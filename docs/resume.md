@@ -118,3 +118,8 @@
     color: white;">
 [<img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.2/svgs/solid/file-pdf.svg" alt="PDF" width="18" style="vertical-align:middle; "/> Download Resume (PDF)](Hammad_Hanif_Resume.pdf)
 </button>
+
+----
+
+> [**⬅ Previous Page**](skills.md) &nbsp;|&nbsp; [**Next Page ➡**](about.md)
+<div style="height:2px; background-color:#000; margin:8px 0;"></div>

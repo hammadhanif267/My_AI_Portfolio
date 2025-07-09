@@ -1,9 +1,12 @@
 <h1 style="color:yellow; font-size:2em;"><i class="fas fa-cogs"></i> Contact Me:</h1>
-Feel free to reach out to me via any of the following platforms:
+----
 
----
+> Feel free to reach out to me via any of the following platforms:
+<div style="height:1px; background-color:#000; margin:8px 0;"></div>
 
 ## **🌐 Online Profiles**
+
+<div style="height:1px; background-color:#000; margin:8px 0;"></div>
 
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/hammadhanif267)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hammad-hanif-153a182bb/)
@@ -14,6 +17,7 @@ Feel free to reach out to me via any of the following platforms:
 - [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@hammadhanif267/community)
 
 ---
+
 **You can direct mail me at:**
 <a href="mailto:hamadhanif267@gmail.com" title="Email">
         <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.2/svgs/solid/envelope.svg" alt="Email" width="24" style="vertical-align:middle;"/> Email
@@ -23,7 +27,14 @@ Feel free to reach out to me via any of the following platforms:
 <a href="tel:+923017379199" title="Phone">
         <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.2/svgs/solid/phone.svg" alt="Phone" width="24" style="vertical-align:middle;"/> Phone
     </a>
+----
 
-## **🤝 Let's Collaborate**
+> ## **🤝 Let's Collaborate**
 
+---
 I am open for collaborations, freelance projects, and exciting opportunities in the field of **Data Science**, **Machine Learning**, and **AI**. Feel free to connect!
+
+----
+
+> [**⬅ Previous Page**](about.md)
+<div style="height:1.5px; background-color:#000; margin:8px 0;"></div>
