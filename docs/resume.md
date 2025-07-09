@@ -1,4 +1,3 @@
-<h1 style="color:blue; font-size:2em;"><i class="fas fa-cogs"></i> This is my resume:</h1>
 <p align="center">
     <span style="color:black; font-size:2em;"><strong>Hammad Hanif</strong></span><br>
     Data Scientist | AI Engineer | Python Developer | ML/DL Specialist<br>
